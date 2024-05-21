@@ -10,10 +10,6 @@
     --roboto-mono: 'Roboto Mono', monospace;
 }
 
-*{  **adicionar 21/05
-    font-weight: 400;   **adicionar 21/05
-}   **adicionar 21/05
-
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
